@@ -1,0 +1,34 @@
+{
+    "user": {
+        "name": "Krish Kumar",
+        "age": 21,
+        "location": "India",
+        "interests": [
+            "data science",
+            "AI",
+            "basketball",
+            "coding"
+        ],
+        "education": {
+            "degree": "Bachelor of Engineering",
+            "university": "Savitribai Phule Pune University",
+            "certifications": [
+                "TCS iON Career Edge - Young Professional",
+                "Prompt Engineering",
+                "Google Cloud - Generative AI"
+            ]
+        }
+    },
+    "project": {
+        "name": "Data Science Journey",
+        "skills": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "status": "In Progress",
+        "repository": "https://github.com/krishkumar/datascience"
+    }
+}
